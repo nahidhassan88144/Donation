@@ -1,0 +1,113 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Mochiy Pop P One', sans-serif;
+
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 18px;
+    padding-top: 15px;
+    color: #fff;
+}
+
+.top-banner {
+    background-image: url(images/donation2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.banner-text {
+    text-align: center;
+    padding: 195px 370px;
+    background-color: #0009;
+    color: #fff;
+}
+
+.donate-link {
+    text-decoration: none;
+    background-image: linear-gradient(to left, #FF5959, #FF492F);
+    color: #fff;
+    padding: 15px 30px;
+    font-size: 20px;
+    font-weight: 500;
+    border-radius: 10px;
+    display: inline-block;
+    margin-top: 25px;
+}
+
+.donate-section {
+    text-align: center;
+    padding: 40px 200px;
+}
+
+.donate-text {
+    margin-top: 70px;
+    padding: 30px 150px;
+}
+
+.donate-text p {
+    color: #707070;
+}
+
+.donate-amount {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 40px;
+    color: #707070;
+}
+
+.select-amount {
+    font-size: 30px;
+    font-weight: 700;
+    background: #FAFAFA;
+    padding: 40px 10px;
+    margin: 30px 10px;
+    border-radius: 05px;
+}
+
+#amount-hover {
+    background: #FFEEEE;
+    color: #FF5959;
+    border: 2px solid #FF5959;
+}
+
+.donate-input-fild {
+    padding: 30px 0px;
+}
+
+.input-fild {
+    border-style: none;
+    border-bottom: 2px solid;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px 300px;
+    color: #70707066;
+}
+
+.main-footer {
+    text-align: center;
+    background: #0B0D17;
+    padding: 50px 0px;
+}
+
+.main-footer p {}
+
+span {
+    font-size: 25px;
+    color: #FF5959;
+}
