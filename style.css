@@ -5,13 +5,13 @@
 }
 
 body {
-    font-family: 'Mochiy Pop P One', sans-serif;
+    font-family: 'Poppins', sans-serif;
 
 }
 
 h1 {
     font-size: 45px;
-    font-weight: 700;
+    font-weight: 900;
 }
 
 h2 {
@@ -187,9 +187,23 @@ p {
     padding: 50px 0px;
 }
 
-.main-footer p {}
+.footer-body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
-span {
-    font-size: 25px;
-    color: #FF5959;
+.main-footer p {
+    padding: 0px 200px;
+    color: #FAFAFA;
+}
+
+.social-icon img {
+    width: 40px;
+    height: 40px;
+    margin: 0px 30px;
+}
+
+.social-icon {
+    padding: 0px 200px;
 }
