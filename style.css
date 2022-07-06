@@ -157,11 +157,15 @@ p {
 
 .depend-donation .donation-image {
     width: 100%;
-    padding: 0px -8px;
     margin-right: 115px;
 }
 
-.donation-image img {
+.depend-donation .need-suvive {
+    width: 100%;
+    margin-left: 100px;
+}
+
+.depend-donation img {
     width: 100%;
     height: 450px;
     margin-top: 20px;
