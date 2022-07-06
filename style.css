@@ -110,7 +110,7 @@ p {
     color: #70707066;
 }
 
-/* ======donate plan====== */
+/* ======donate plan section====== */
 
 .donate-plan {
     text-align: center;
@@ -144,7 +144,31 @@ p {
     background-color: #FFF4D6;
 }
 
-/* =====get update===== */
+/* =======depend donet section===== */
+
+.depend-donation {
+    padding: 40px 40px;
+    margin: 10px 0px;
+}
+
+.depend-donation-left-side {
+    padding: 30px 100px;
+}
+
+.depend-donation .donation-image {
+    width: 100%;
+    padding: 0px -8px;
+    margin-right: 115px;
+}
+
+.donation-image img {
+    width: 100%;
+    height: 450px;
+    margin-top: 20px;
+    border-radius: 05px;
+}
+
+/* =====get update section===== */
 
 .get-update {
     text-align: center;
@@ -179,7 +203,7 @@ p {
     border-radius: 0px 05px 05px 0px;
 }
 
-/* footer */
+/* ======footer====== */
 
 .main-footer {
     text-align: center;
