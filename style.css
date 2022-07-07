@@ -177,7 +177,7 @@ p {
 .get-update {
     text-align: center;
     padding: 0px 200px;
-    padding-bottom: 40px;
+    padding-bottom: 100px;
 }
 
 .update-input-fild {
@@ -197,6 +197,7 @@ p {
     font-size: 18px;
     text-align: left;
     margin-top: 25px;
+    padding: 0px 20px;
     border-style: none;
     background-color: #D9D9D9;
     border-radius: 05px 0px 0px 5px;
